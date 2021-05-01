@@ -1,0 +1,51 @@
+ 
+ h1{
+  text-align: center;
+  background-color: red;
+  color: white;
+  border: solid black 2px;
+  border-radius: 10px;
+}
+h2{   text-align: center;
+      color: blue;}
+  .player{
+    border: 1px solid blue;
+     width: 130px;
+     background-color: cornflowerblue;
+  }
+
+      td {
+        border: 2px solid black;
+        height: 50px;
+        width: 50px;
+        }
+      div{
+        text-align: center;
+      }
+    
+    
+    #circle {
+      width: 30px;
+      height: 30px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: black;
+    }
+    .link{  text-align: centre;
+        color: darkblue;
+             
+    }
+
+    
+    
+    button{
+      background-color:blue;
+      border: red solid 2px;
+      color: whitesmoke;
+    }
+    table{
+      background: darkorange;
+    }
+
+    
